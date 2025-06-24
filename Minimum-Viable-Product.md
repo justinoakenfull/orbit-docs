@@ -2,7 +2,7 @@
 title: Minimal Viable Product (MVP)
 description: Scope, rationale, and exclusions for Orbit’s MVP release.
 published: true
-date: 2025-06-24T07:57:44.493Z
+date: 2025-06-24T07:57:45.116Z
 tags: design, ui
 editor: markdown
 dateCreated: 2025-06-24T07:53:45.387Z
