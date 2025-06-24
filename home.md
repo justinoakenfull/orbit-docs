@@ -3,7 +3,7 @@ title: Home
 description: Home Page
 published: true
 date: 2025-06-24T07:53:46.876Z
-tags: 
+tags: home
 editor: markdown
 dateCreated: 2025-06-24T06:14:04.182Z
 ---
