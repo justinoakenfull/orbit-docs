@@ -1,3 +1,9 @@
+---
+title: Home
+description: Home Page
+published: true
+---
+
 # Orbit – The Open Source Family Hub
 
 *One central screen. Every family detail.*
