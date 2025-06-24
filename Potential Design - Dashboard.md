@@ -1,3 +1,10 @@
+---
+title: Potential Design – Dashboard
+description: Wireframe / design concepts for Orbit’s main dashboard screen.
+tags: [design, ui, dashboard]
+published: true
+---
+
 # Potential Design - Dashboard
 
 # Orbit - **Dashboard Layout**

@@ -1,3 +1,10 @@
+---
+title: Data Model Draft
+description: Initial entity–relationship draft for Orbit’s data layer.
+tags: [architecture, data]
+published: true
+---
+
 # Data Model Draft
 
 # 📊 Orbit – Data Model Cheat-Sheet

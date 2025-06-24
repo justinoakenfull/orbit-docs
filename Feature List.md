@@ -1,3 +1,10 @@
+---
+title: Feature List
+description: Complete inventory of Orbit features and stretch ideas.
+tags: [features, scope]
+published: true
+---
+
 # Feature List
 
 ## Calendar

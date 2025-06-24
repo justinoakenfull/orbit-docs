@@ -1,3 +1,10 @@
+---
+title: User Persona – Taylor Thompson
+description: Busy professional balancing work and household tasks.
+tags: [persona, taylor-thompson]
+published: true
+---
+
 # Taylor Thompson
 
 ![notion-avatar-1693544496723.svg](Mia%20Watson%20200b2bc5400e80ad927fdab857be2255/notion-avatar-1693544496723.svg)

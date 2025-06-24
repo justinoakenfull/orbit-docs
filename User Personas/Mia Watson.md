@@ -1,3 +1,10 @@
+---
+title: User Persona – Mia Watson
+description: Young child persona focusing on accessibility and simplicity.
+tags: [persona, mia-watson]
+published: true
+---
+
 # Mia Watson
 
 ![notion-avatar-1693544496723.svg](Mia%20Watson%20200b2bc5400e80ad927fdab857be2255/notion-avatar-1693544496723.svg)

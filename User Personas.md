@@ -1,3 +1,10 @@
+---
+title: User Personas (Overview)
+description: Summary of key personas that guide Orbit’s UX decisions.
+tags: [personas, ux]
+published: true
+---
+
 # User Personas
 
 <aside>

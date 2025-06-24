@@ -1,3 +1,10 @@
+---
+title: User Persona – Alex Rodriguez
+description: Tech-savvy parent persona influencing advanced features.
+tags: [persona, alex-rodriguez]
+published: true
+---
+
 # Alex Rodriguez
 
 ![notion-avatar-1693544496723.svg](Mia%20Watson%20200b2bc5400e80ad927fdab857be2255/notion-avatar-1693544496723.svg)
