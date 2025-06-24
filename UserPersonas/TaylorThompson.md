@@ -2,7 +2,7 @@
 title: Taylor Thompson
 description: Busy professional balancing work and household tasks.
 published: true
-date: 2025-06-24T10:56:15.778Z
+date: 2025-06-24T10:56:33.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-24T10:56:15.778Z
