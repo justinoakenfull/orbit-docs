@@ -1,11 +1,11 @@
 ---
 title: Data Model Draft
 description: Initial entity–relationship draft for Orbit’s data layer.
-tags: 
 published: true
-date: 2025-06-24T07:57:45.116Z
+date: 2025-06-24T10:46:18.549Z
+tags: architecture, data
 editor: markdown
-dateCreated: 2025-06-24T07:53:45.387Z
+dateCreated: 2025-06-24T08:06:32.716Z
 ---
 
 # Data Model Draft

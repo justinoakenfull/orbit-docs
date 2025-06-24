@@ -2,10 +2,10 @@
 title: Home
 description: Home Page
 published: true
-date: 2025-06-24T10:46:24.346Z
-tags: 
+date: 2025-06-24T08:13:40.003Z
+tags: home
 editor: markdown
-dateCreated: 2025-06-24T06:08:52.603Z
+dateCreated: 2025-06-24T06:14:04.182Z
 ---
 
 # Orbit – The Open Source Family Hub
@@ -67,12 +67,4 @@ Orbit is a touchscreen-based, open-source family hub designed to replace whitebo
 ---
 
 *Maintained by: Justin Oakenfull
-Last updated: 23 May 2025*
-
-[User Personas](Orbit%20%E2%80%93%20The%20Open%20Source%20Family%20Hub%201f9b2bc5400e80c0b6e2f6be0cdf3c08/User%20Personas%201feb2bc5400e80c5a00dd2ee5edbb64e.md)
-
-[User Stories](Orbit%20%E2%80%93%20The%20Open%20Source%20Family%20Hub%201f9b2bc5400e80c0b6e2f6be0cdf3c08/User%20Stories%20200b2bc5400e8013ad4fd43d15bf3a07.md)
-
-[Potential Design - Dashboard](Orbit%20%E2%80%93%20The%20Open%20Source%20Family%20Hub%201f9b2bc5400e80c0b6e2f6be0cdf3c08/Potential%20Design%20-%20Dashboard%2021bb2bc5400e80439de5e097e88489f6.md)
-
-[Data Model Draft](Orbit%20%E2%80%93%20The%20Open%20Source%20Family%20Hub%201f9b2bc5400e80c0b6e2f6be0cdf3c08/Data%20Model%20Draft%2021bb2bc5400e80b08614e9b91f46b965.md)
+Last updated: 24 June 2025*

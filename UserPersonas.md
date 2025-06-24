@@ -1,11 +1,11 @@
 ---
 title: User Personas (Overview)
 description: Summary of key personas that guide Orbit’s UX decisions.
-tags: 
 published: true
-date: 2025-06-24T07:57:45.116Z
+date: 2025-06-24T10:46:22.449Z
+tags: 
 editor: markdown
-dateCreated: 2025-06-24T07:53:45.387Z
+dateCreated: 2025-06-24T10:46:21.818Z
 ---
 
 # User Personas
