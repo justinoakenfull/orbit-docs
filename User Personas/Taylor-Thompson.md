@@ -1,7 +1,7 @@
 ---
 title: User Persona – Taylor Thompson
 description: Busy professional balancing work and household tasks.
-tags: [persona, taylor-thompson]
+tags: 
 published: true
 ---
 

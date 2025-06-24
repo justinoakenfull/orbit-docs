@@ -1,7 +1,7 @@
 ---
 title: User Persona – Sarah Chen
 description: Teen persona balancing independence with family oversight.
-tags: [persona, sarah-chen]
+tags:
 published: true
 ---
 
