@@ -2,7 +2,7 @@
 title: Data Model Draft
 description: Initial entity–relationship draft for Orbit’s data layer.
 published: true
-date: 2025-06-26T01:42:04.839Z
+date: 2025-06-26T01:43:56.787Z
 tags: architecture, data
 editor: markdown
 dateCreated: 2025-06-24T08:06:32.716Z
@@ -30,7 +30,8 @@ dateCreated: 2025-06-24T08:06:32.716Z
 | **Permissions** | Multi-select | :x: | CRUD flags per feature |
 | **Stars Earned** | Number | :x: | Gamification tally |
 | **Created At** | Created time | :white_check_mark: | — |
-| **Updated At ** | Auto updated time | :white_check_mark: | - |
+| **Updated At** | Auto updated time | :white_check_mark: | — |
+| **Active Account** | Boolean | :white_check_mark: | — |
 
 ---
 
