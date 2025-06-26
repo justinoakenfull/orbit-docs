@@ -2,7 +2,7 @@
 title: React Structure
 description: React default structure
 published: true
-date: 2025-06-26T02:57:31.953Z
+date: 2025-06-26T02:59:08.645Z
 tags: design, react, learning, resources, structure
 editor: markdown
 dateCreated: 2025-06-26T02:57:31.953Z
@@ -134,4 +134,4 @@ TypeScript compiler options (module resolution, strictness flags, JSX support) f
 
 ---
 
-That covers every major folder and file. Let me know if you’d like to dive deeper into any specific part!
+That covers every major folder and file.
