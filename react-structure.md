@@ -2,7 +2,7 @@
 title: React Structure - default
 description: React default structure
 published: true
-date: 2025-06-26T02:59:21.983Z
+date: 2025-06-26T02:59:42.716Z
 tags: design, react, learning, resources, structure
 editor: markdown
 dateCreated: 2025-06-26T02:57:31.953Z
