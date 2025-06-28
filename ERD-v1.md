@@ -2,13 +2,13 @@
 title: ERD - Design v1
 description: Initial ERD Design for ChartDB
 published: true
-date: 2025-06-28T06:08:48.748Z
+date: 2025-06-28T06:09:02.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-06-28T06:08:48.748Z
 ---
 
-#ERD
+# ERD
 ```JSON
 {
   "id": "0",
